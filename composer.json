@@ -1,17 +1,17 @@
 {
-    "name": "mehedi-iitdu/core-component-repository",
+    "name": "byLogin/core-component-repository",
     "description": "My awesome package",
     "keywords": [
         "mehedi-iitdu",
         "core-component-repository"
     ],
-    "homepage": "https://github.com/mehedi-iitdu/core-component-repository",
+    "homepage": "https://github.com/byLogin/core-component-repository",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Mehedi Hasan",
-            "email": "bsse0607@iit.du.ac.bd",
+            "name": "name",
+            "email": "test@test.com",
             "role": "Developer"
         }
     ],
