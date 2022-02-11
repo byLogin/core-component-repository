@@ -10,7 +10,7 @@
     "type": "library",
     "authors": [
         {
-            "name": "name",
+            "name": "names",
             "email": "test@test.com",
             "role": "Developer"
         }
